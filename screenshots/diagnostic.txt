@@ -1,0 +1,20 @@
+04-14 09:22:48.769    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onCreate event fired
+04-14 09:22:48.772    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStart event fired
+04-14 09:22:48.772    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onResume event fired
+04-14 09:22:50.296    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onPause event fired
+04-14 09:22:50.297    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStop event fired
+04-14 09:22:50.297    1923-1923/edu.washington.ghirme.activityspy E/MainActivity﹕ We're going down Captain!
+04-14 09:22:50.386    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onCreate event fired
+04-14 09:22:50.388    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStart event fired
+04-14 09:22:50.389    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onResume event fired
+04-14 09:24:06.012    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onPause event fired
+04-14 09:24:06.522    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStop event fired
+04-14 09:24:06.523    1923-1923/edu.washington.ghirme.activityspy E/MainActivity﹕ We're going down Captain!
+04-14 09:24:13.644    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onCreate event fired
+04-14 09:24:13.645    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStart event fired
+04-14 09:24:13.646    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onResume event fired
+04-14 09:24:48.419    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onPause event fired
+04-14 09:24:48.436    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStop event fired
+04-14 09:24:51.030    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onRestart event fired
+04-14 09:24:51.032    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onStart event fired
+04-14 09:24:51.032    1923-1923/edu.washington.ghirme.activityspy I/MainActivity﹕ onResume event fired
